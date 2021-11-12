@@ -97,3 +97,7 @@ body {
     grid-area: 3 / 2 / 10 / 9;
   }
 }
+
+.maintenance {
+  height: 20px;
+}
